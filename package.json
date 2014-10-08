@@ -1,0 +1,13 @@
+{
+  "name": "Zombie_Server",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "~4.9.5",
+    "zombie": "~2.0.4",
+    "valid-url": "~1.0.9"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
